@@ -1,6 +1,6 @@
-/best_model.pkl/
-/feature_names/
-/manuale.csv/
-/scaler.pkl/
-/training_clean.csv/
-/training/
+/best_model.pkl
+/feature_names.pkl
+/manuale.csv
+/scaler.pkl
+/training_clean.csv
+training.csv
