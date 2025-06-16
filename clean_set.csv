@@ -474,7 +474,7 @@ Stagione,Calciatore,Squadra,Età,Partite Giocate,Minuti Giocati,Reti,Assist,Reti
 2024-25,Samuel Mbangula,Juventus,20.0,23.0,709.0,3.0,3.0,3.0,3.0,1.0,0.0,Att
 2024-25,Weston McKennie,Juventus,25.0,32.0,2.31,2.0,4.0,2.0,2.0,3.0,0.0,Cen
 2024-25,Weston McKennie,Juventus,25.0,32.0,2.31,2.0,4.0,2.0,2.0,3.0,0.0,Dif
-2024-25,Scott McTominay,Napoli,27.0,34.0,2.938,12.0,4.0,12.0,12.0,3.0,0.11832564271588662,Cen
+2024-25,Scott McTominay,Napoli,27.0,34.0,2.938,12.0,4.0,12.0,12.0,3.0,0.0,Cen
 2024-25,Filippo Melegoni,Genoa,25.0,3.0,89.0,0.0,1.0,0.0,0.0,0.0,0.0,Cen
 2024-25,Filippo Melegoni,Genoa,25.0,3.0,89.0,0.0,1.0,0.0,0.0,0.0,0.0,Att
 2024-25,Alex Meret,Napoli,27.0,34.0,3.005,0.0,0.0,0.0,0.0,0.0,0.0,Por
@@ -2307,7 +2307,7 @@ Stagione,Calciatore,Squadra,Età,Partite Giocate,Minuti Giocati,Reti,Assist,Reti
 2020-21,Jean-Daniel Akpa-Akpro,Lazio,27.0,32.0,1.056,0.0,1.0,0.0,0.0,9.0,0.0,Cen
 2020-21,Luis Alberto Romero Alconchel,Lazio,27.0,34.0,2.618,9.0,2.0,9.0,0.0,5.0,0.0,Cen
 2020-21,Bruno Alves,Parma,38.0,19.0,1.632,1.0,0.0,1.0,0.0,3.0,0.0,Dif
-2020-21,Wisdom Amey,Bologna,14.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Dif
+2020-21,Wisdom Amey,Bologna,15.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Dif
 2020-21,Sofyan Amrabat,Fiorentina,23.0,31.0,2.441,0.0,0.0,0.0,0.0,7.0,0.0,Cen
 2020-21,Djavan Anderson,Lazio,25.0,3.0,72.0,0.0,0.0,0.0,0.0,0.0,0.0,Dif
 2020-21,Nicolas Andrade,Udinese,32.0,2.0,180.0,0.0,0.0,0.0,0.0,0.0,0.0,Por
@@ -2437,7 +2437,7 @@ Stagione,Calciatore,Squadra,Età,Partite Giocate,Minuti Giocati,Reti,Assist,Reti
 2020-21,Domenico Criscito,Genoa,33.0,23.0,1.726,1.0,0.0,0.0,1.0,6.0,0.0,Dif
 2020-21,Bryan Cristante,Roma,25.0,34.0,2.155,1.0,3.0,1.0,0.0,8.0,0.0,Dif
 2020-21,Bryan Cristante,Roma,25.0,34.0,2.155,1.0,3.0,1.0,0.0,8.0,0.0,Cen
-2020-21,Giovanni Crociata,Crotone,25.97626895187871,2.0,26.0,0.0,0.0,0.0,0.0,0.0,0.0,Dif
+2020-21,Giovanni Crociata,Crotone,26.0,2.0,26.0,0.0,0.0,0.0,0.0,0.0,0.0,Dif
 2020-21,Juan Cuadrado,Juventus,32.0,30.0,2.175,2.0,10.0,1.0,1.0,9.0,1.0,Dif
 2020-21,Juan Cuadrado,Juventus,32.0,30.0,2.175,2.0,10.0,1.0,1.0,9.0,1.0,Cen
 2020-21,Giuseppe Cuomo,Crotone,22.0,13.0,801.0,0.0,0.0,0.0,0.0,4.0,0.0,Dif
@@ -2569,7 +2569,7 @@ Stagione,Calciatore,Squadra,Età,Partite Giocate,Minuti Giocati,Reti,Assist,Reti
 2020-21,Alberto Grassi,Parma,25.0,23.0,1.177,0.0,0.0,0.0,0.0,3.0,0.0,Dif
 2020-21,Koray Günter,Hellas Verona,25.0,27.0,1.768,0.0,2.0,0.0,0.0,4.0,0.0,Dif
 2020-21,Manu Gyabuaa,Atalanta,18.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Cen
-2020-21,Emmanuel Gyasi,Spezia,26.0,37.0,180.52369281476598,4.0,6.0,4.0,0.0,4.0,0.0,Att
+2020-21,Emmanuel Gyasi,Spezia,26.0,37.0,181.0,4.0,6.0,4.0,0.0,4.0,0.0,Att
 2020-21,Achraf Hakimi,Inter,21.0,37.0,2.665,7.0,8.0,7.0,0.0,6.0,0.0,Dif
 2020-21,Samir Handanovič,Inter,36.0,37.0,3.24,0.0,0.0,0.0,0.0,1.0,0.0,Por
 2020-21,Lukáš Haraslín,Sassuolo,24.0,14.0,333.0,0.0,0.0,0.0,0.0,1.0,1.0,Att
@@ -2602,7 +2602,7 @@ Stagione,Calciatore,Squadra,Età,Partite Giocate,Minuti Giocati,Reti,Assist,Reti
 2020-21,Mato Jajalo,Udinese,32.0,1.0,34.0,0.0,0.0,0.0,0.0,0.0,0.0,Cen
 2020-21,Jakub Jankto,Sampdoria,24.0,35.0,2.409,6.0,3.0,6.0,0.0,6.0,0.0,Cen
 2020-21,Juan Guilherme Nunes Jesus,Roma,29.0,5.0,157.0,0.0,0.0,0.0,0.0,0.0,0.0,Dif
-2020-21,Hamed Junior Traorè,Sassuolo,25.97626895187871,18.984833498186614,180.52369281476598,1.700823723228995,1.2056013179571663,1.57331136738056,0.5100494233937397,2.583855024711697,0.11832564271588662,
+2020-21,Hamed Junior Traorè,Sassuolo,26.0,19.0,181.0,2.0,1.0,2.0,1.0,3.0,0.0,
 2020-21,Musa Juwara,Bologna,18.0,5.0,46.0,0.0,0.0,0.0,0.0,1.0,0.0,Cen
 2020-21,Musa Juwara,Bologna,18.0,5.0,46.0,0.0,0.0,0.0,0.0,1.0,0.0,Dif
 2020-21,Nikola Kalinić,Hellas Verona,32.0,19.0,1.063,2.0,0.0,2.0,0.0,2.0,0.0,Att
@@ -2657,8 +2657,8 @@ Stagione,Calciatore,Squadra,Età,Partite Giocate,Minuti Giocati,Reti,Assist,Reti
 2020-21,Pol Lirola,Fiorentina,22.0,12.0,498.0,0.0,1.0,0.0,0.0,3.0,0.0,Dif
 2020-21,Pol Lirola,Fiorentina,22.0,12.0,498.0,0.0,1.0,0.0,0.0,3.0,0.0,Att
 2020-21,Fernando Llorente,Udinese,35.0,14.0,713.0,1.0,0.0,1.0,0.0,2.0,0.0,Att
-2020-21,Fernando Llorente,Napoli,35.0,18.984833498186614,52.0,0.0,0.0,0.0,0.0,0.0,0.0,Att
-2020-21,Fernando Llorente,Napoli,35.0,18.984833498186614,52.0,0.0,0.0,0.0,0.0,0.0,0.0,Cen
+2020-21,Fernando Llorente,Napoli,35.0,19.0,52.0,0.0,0.0,0.0,0.0,0.0,0.0,Att
+2020-21,Fernando Llorente,Napoli,35.0,19.0,52.0,0.0,0.0,0.0,0.0,0.0,0.0,Cen
 2020-21,Stanislav Lobotka,Napoli,25.0,15.0,154.0,0.0,0.0,0.0,0.0,2.0,0.0,Cen
 2020-21,Manuel Locatelli,Sassuolo,22.0,34.0,2.883,4.0,2.0,2.0,2.0,9.0,0.0,Cen
 2020-21,Maxime Lopez,Sassuolo,22.0,29.0,1.864,2.0,0.0,2.0,0.0,7.0,0.0,Cen
@@ -2791,8 +2791,8 @@ Stagione,Calciatore,Squadra,Età,Partite Giocate,Minuti Giocati,Reti,Assist,Reti
 2020-21,Alberto Andrea Paleari,Genoa,27.0,3.0,206.0,0.0,0.0,0.0,0.0,0.0,0.0,Por
 2020-21,Antonio Palumbo,Sampdoria,23.0,1.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,Cen
 2020-21,Martin Palumbo,Udinese,18.0,3.0,63.0,0.0,0.0,0.0,0.0,0.0,0.0,Cen
-2020-21,Goran Pandev,Genoa,25.976268951878712,29.0,1.404,7.0,3.0,6.0,1.0,5.0,0.0,Att
-2020-21,Goran Pandev,Genoa,25.976268951878712,29.0,1.404,7.0,3.0,6.0,1.0,5.0,0.0,Cen
+2020-21,Goran Pandev,Genoa,26.0,29.0,1.404,7.0,3.0,6.0,1.0,5.0,0.0,Att
+2020-21,Goran Pandev,Genoa,26.0,29.0,1.404,7.0,3.0,6.0,1.0,5.0,0.0,Cen
 2020-21,Ivor Pandur,Hellas Verona,20.0,4.0,332.0,0.0,0.0,0.0,0.0,0.0,0.0,Por
 2020-21,Vittorio Parigini,Genoa,24.0,4.0,56.0,0.0,0.0,0.0,0.0,0.0,0.0,Cen
 2020-21,Vittorio Parigini,Genoa,24.0,4.0,56.0,0.0,0.0,0.0,0.0,0.0,0.0,Dif
@@ -2887,7 +2887,7 @@ Stagione,Calciatore,Squadra,Età,Partite Giocate,Minuti Giocati,Reti,Assist,Reti
 2020-21,Luis Rojas,Crotone,18.0,7.0,104.0,0.0,0.0,0.0,0.0,1.0,0.0,Att
 2020-21,Alessio Romagnoli,Milan,25.0,22.0,1.907,1.0,1.0,1.0,0.0,7.0,0.0,Dif
 2020-21,Cristian Romero,Atalanta,22.0,31.0,2.545,2.0,2.0,2.0,0.0,10.0,0.0,Dif
-2020-21,Cristiano Ronaldo,Juventus,25.976268951878712,33.0,2.802,29.0,2.0,23.0,6.0,3.0,0.0,Att
+2020-21,Cristiano Ronaldo,Juventus,26.0,33.0,2.802,29.0,2.0,23.0,6.0,3.0,0.0,Att
 2020-21,Marten de Roon,Atalanta,29.0,35.0,3.021,1.0,1.0,1.0,0.0,8.0,1.0,Cen
 2020-21,Nicolò Rovella,Genoa,18.0,20.0,1.187,0.0,2.0,0.0,0.0,4.0,0.0,Cen
 2020-21,Amir Rrahmani,Napoli,26.0,16.0,1.094,1.0,0.0,1.0,0.0,2.0,0.0,Dif
